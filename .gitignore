@@ -4,6 +4,7 @@ build/
 # Ignore Gradle GUI config
 gradle-app.setting
 
+
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
