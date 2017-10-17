@@ -1,4 +1,5 @@
 # FitnessTracker
 Example application to experiment with development practices
 
-Adding soemthing 
+Replacing with something else
+
