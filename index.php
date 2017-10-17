@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>PHP Test</title>
+  <title>PHP Verification Test</title>
  </head>
  <body>
  <?php echo '<p>Hello commit triggered  World this is my first modified Elastic Beanstalk application</p>'; ?> 
